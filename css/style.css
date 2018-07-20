@@ -242,9 +242,16 @@ ul.social-icons{
 }
 .social-icons li a.fb{
 	background-position: 3px -30px;
+	
 }
 .social-icons li a.in{
-      background-position: 3px -62px;
+	  /*background-position: 3px -62px;*/
+	  background: url(../images/Github.png) ;
+	height: 32px;
+	width: 32px;
+	background-size: cover;
+    background-size: contain;
+	background-repeat: no-repeat;
 }
 .social-icons li a.dott {
 background-position: 3px -94px;
